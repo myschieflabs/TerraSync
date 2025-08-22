@@ -1,9 +1,6 @@
 <p align="center">
   <img src="assets/banner.jpg" alt="TerraSync Hero Banner" />
 </p>
-
-<h1 align="center">🌱 TerraSync</h1>
-
 <p align="center"><em>Real-time agricultural market intelligence — powered by Terra Engine</em></p>
 
 <p align="center">
