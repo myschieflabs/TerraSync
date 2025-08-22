@@ -25,10 +25,10 @@ It consolidates **real-time commodity prices, farm management, plant health, and
 
 ## 🎯 Features  
 
-<p align="center">
-  <img src="assets/1.png" alt="Screenshot 1" width="30%" style="margin-right: 1%">
-  <img src="assets/2.png" alt="Screenshot 2" width="30%" style="margin-right: 1%">
-  <img src="assets/3.png" alt="Screenshot 3" width="30%">
+<p align="left">
+  <img src="assets/1.png" alt="Screenshot 1" width="30%" style="margin-right: 1%"><br>
+  <img src="assets/2.png" alt="Screenshot 2" width="30%" style="margin-right: 1%"><br>
+  <img src="assets/3.png" alt="Screenshot 3" width="30%"><br>
 </p>
 
 - 📈 **Live Price Monitoring** – Dynamic commodity prices  
