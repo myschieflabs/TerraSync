@@ -30,6 +30,7 @@ It consolidates **real-time commodity prices, farm management, plant health, and
   <img src="assets/2.png" alt="Screenshot 2" width="32%" style="margin-right: 1%">
   <img src="assets/3.png" alt="Screenshot 3" width="30%">
 </p>
+
 - 📈 **Live Price Monitoring** – Dynamic commodity prices  
 - 📊 **Market Intelligence** – Top gainers, losers, and key indicators  
 - 🌦️ **Weather Impact Analysis** – Forecast effects on crop yield & market prices  
