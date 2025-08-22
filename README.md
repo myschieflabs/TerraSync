@@ -95,15 +95,15 @@ TerraSync is **community-first**. You can help by:
 
 ## 📜 License  
 
-- **Frontend:** MIT License  
-- **Backend / Terra Engine:** Closed Alpha  
+- **Frontend:** GNU AGPL Licence  
+- **Backend / Terra Engine:** Proprietary Closed Alpha  
 
 ---
 
 ## 📬 Contact  
 
 💡 Feedback, ideas, or collaboration?  
-📧 your-email@example.com  
+📧 myschieflabs@gmail.com  
 
 ---
 
