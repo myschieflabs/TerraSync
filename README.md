@@ -30,7 +30,7 @@ It consolidates **real-time commodity prices, farm management, plant health, and
   <img src="assets/2.png" alt="Screenshot 2" width="30%" style="margin-right: 1%"><br>
   <img src="assets/3.png" alt="Screenshot 3" width="30%"><br>
 </p>
-
+<p align="left">
 - 📈 **Live Price Monitoring** – Dynamic commodity prices  
 - 📊 **Market Intelligence** – Top gainers, losers, and key indicators  
 - 🌦️ **Weather Impact Analysis** – Forecast effects on crop yield & market prices  
@@ -53,7 +53,7 @@ It consolidates **real-time commodity prices, farm management, plant health, and
 
 **Backend — Terra Engine (Closed Alpha)**<br>  
 - Mock APIs for frontend in this alpha  
-
+</p>
 ---
 
 ## ⚡ Quick Start  
