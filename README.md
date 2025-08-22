@@ -26,9 +26,9 @@ It consolidates **real-time commodity prices, farm management, plant health, and
 ## 🎯 Features  
 
 <p align="center">
-  <img src="assets/1.png" alt="Screenshot 1" width="30%" style="margin-right: 1%">
+  <img src="assets/1.png" alt="Screenshot 1" width="35%" style="margin-right: 1%">
   <img src="assets/2.png" alt="Screenshot 2" width="32%" style="margin-right: 1%">
-  <img src="assets/3.png" alt="Screenshot 3" width="35%">
+  <img src="assets/3.png" alt="Screenshot 3" width="30%">
 </p>
 - 📈 **Live Price Monitoring** – Dynamic commodity prices  
 - 📊 **Market Intelligence** – Top gainers, losers, and key indicators  
