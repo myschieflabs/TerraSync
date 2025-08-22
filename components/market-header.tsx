@@ -28,8 +28,8 @@ export function MarketHeader() {
               <div className="flex items-center space-x-2">
                 <TrendingUp className="h-8 w-8 text-primary" />
                 <div>
-                  <h1 className="text-xl font-bold">AgriMarket Pro</h1>
-                  <p className="text-xs text-muted-foreground">Agricultural Intelligence Platform</p>
+                  <h1 className="text-xl font-bold">TerraSync</h1>
+                  <p className="text-xs text-muted-foreground">Smart Farming</p>
                 </div>
               </div>
               <Badge variant="outline" className="text-green-600 border-green-600">
