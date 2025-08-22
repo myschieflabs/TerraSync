@@ -25,7 +25,7 @@ It consolidates **real-time commodity prices, farm management, plant health, and
 
 ## 🎯 Features  
 
-<p align="left">
+<p align="right">
   <img src="assets/1.png" alt="Screenshot 1" width="30%" style="margin-right: 1%"><br>
   <img src="assets/2.png" alt="Screenshot 2" width="30%" style="margin-right: 1%"><br>
   <img src="assets/3.png" alt="Screenshot 3" width="30%"><br>
