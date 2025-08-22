@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/github/contributors/myschieflabs/terrasync?style=flat-square" alt="Contributors">
   <img src="https://img.shields.io/github/stars/myschieflabs/terrasync?style=flat-square&logo=github" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/myschieflabs/terrasync?style=flat-square&logo=github" alt="GitHub Forks">
-  <img src="https://img.shields.io/vercel/deployments/myschieflabs/terrasync?style=flat-square" alt="Vercel Deploys">
 </p>
 
 ---
